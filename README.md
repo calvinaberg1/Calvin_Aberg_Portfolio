@@ -23,6 +23,4 @@ In this project, we thoroughly worked through the data sceince pipeline, working
 
 ![image](https://user-images.githubusercontent.com/98669438/192065938-84868bdc-3698-431e-8a4b-b494ca0596c9.png)
 
-I'm very proud of this project and the project we were able to achieve with only 24 hours to work on a complex problem.
-
 
