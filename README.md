@@ -19,6 +19,8 @@ In this project, we thoroughly worked through the data sceince pipeline, working
 3. Linear Regression
 4. Random Forrest Regression
 
+[image](https://github.com/calvinaberg1/Calvin_Aberg_Portfolio/blob/main/confus.png?raw=true)
+
 I'm very proud of this project and the project we were able to achieve with only 24 hours to work on a complex problem.
 
 
