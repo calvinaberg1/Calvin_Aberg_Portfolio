@@ -23,4 +23,7 @@ In this project, we thoroughly worked through the data sceince pipeline, working
 
 ![image](https://user-images.githubusercontent.com/98669438/192065938-84868bdc-3698-431e-8a4b-b494ca0596c9.png)
 
+### Awards:
+- Won third place in its track at the 2022 Rice Datathon
+
 
