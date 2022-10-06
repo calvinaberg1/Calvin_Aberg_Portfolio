@@ -1,4 +1,4 @@
-# Calvin_Aberg_Portfolio
+# Calvin Aberg Portfolio
 Portfolio of data science projects
 
 # LoanDefaultRiceDatathon
